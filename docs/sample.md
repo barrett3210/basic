@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 #title: "A strange sample post"
 #date:   2018-07-14 12:29:12 -0700
 #categories: sample
