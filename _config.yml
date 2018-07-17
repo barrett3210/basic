@@ -17,7 +17,7 @@ lang: en-US
 title: A basic site
 email:
 description: An example of what this theme can do
-baseurl: /basic
+baseurl: "/basic"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
   name: Linda Barrett
